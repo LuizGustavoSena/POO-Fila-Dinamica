@@ -1,0 +1,7 @@
+C:\Users\Luiz Sena\source\repos\LuizGustavoSena\POO-Fila-Dinamica\Fila\Fila\bin\Debug\Fila.exe.config
+C:\Users\Luiz Sena\source\repos\LuizGustavoSena\POO-Fila-Dinamica\Fila\Fila\bin\Debug\Fila.exe
+C:\Users\Luiz Sena\source\repos\LuizGustavoSena\POO-Fila-Dinamica\Fila\Fila\bin\Debug\Fila.pdb
+C:\Users\Luiz Sena\source\repos\LuizGustavoSena\POO-Fila-Dinamica\Fila\Fila\obj\Debug\Fila.csprojAssemblyReference.cache
+C:\Users\Luiz Sena\source\repos\LuizGustavoSena\POO-Fila-Dinamica\Fila\Fila\obj\Debug\Fila.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Sena\source\repos\LuizGustavoSena\POO-Fila-Dinamica\Fila\Fila\obj\Debug\Fila.exe
+C:\Users\Luiz Sena\source\repos\LuizGustavoSena\POO-Fila-Dinamica\Fila\Fila\obj\Debug\Fila.pdb
